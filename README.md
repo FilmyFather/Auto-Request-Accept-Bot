@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Aadhi000/Auto-Request-Accept-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/Aadhi000/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/FilmyFather/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/forks/FilmyFather/Auto-Request-Accept-Bot?style=social" />
 </p>
 
 <b>𝙷𝙴𝙻𝙻𝙾...⚡</b>
@@ -25,7 +25,7 @@
 </p>
 
 ### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Auto-Request-Accept-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Auto-Request-Accept-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -43,5 +43,5 @@
 
 <b>`APPROVED_WELCOME_TEXT`</b> : **Approved Welcome Text**
 ### Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+- [AutoApprove Bot by Mo Tech](https://github.com/FilmyFather/Auto-Request-Accept-Bot)
 ## [Share Support And Subscribe](https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA)
