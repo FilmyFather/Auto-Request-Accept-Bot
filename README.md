@@ -24,11 +24,8 @@
 <a href="https://telegram.dog/Yuvi_4502"><img alt="Telegram" src="https://img.shields.io/badge/Yuvraj-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/Auto-Request-Accept-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-
+## Easy Deploy:
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="300""/></a></p>
 ## Config Varies
 
 <b>`API_ID`</b> : **Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
